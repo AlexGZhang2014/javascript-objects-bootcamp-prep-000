@@ -1,1 +1,1 @@
-var playlist = {Paramore: "Pool"}
+var playlist = {Paramore: "Pool"};
